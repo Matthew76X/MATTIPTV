@@ -1,0 +1,578 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/ae.png" group-title="Peliculas", A&E HD
+http://go.iptvhn.net:25461/5418/5418/6479
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/amc.png" group-title="Peliculas", AMC HD
+http://go.iptvhn.net:25461/5418/5418/6480
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/axn.png" group-title="Peliculas", AXN HD
+http://go.iptvhn.net:25461/5418/5418/6481
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/cinecanal.png" group-title="Peliculas", CINECANAL HD
+http://go.iptvhn.net:25461/5418/5418/6497
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/cinelatino.png" group-title="Peliculas", Cine Latino
+http://go.iptvhn.net:25461/5418/5418/6524
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/cinemax.png" group-title="Peliculas", CineMax
+http://go.iptvhn.net:25461/5418/5418/6526
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/clarocinema.png" group-title="Peliculas", Claro Cinema
+http://go.iptvhn.net:25461/5418/5418/6527
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/dhe.png" group-title="Peliculas", DHE HD
+http://go.iptvhn.net:25461/5418/5418/6533
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/fxhd.png" group-title="Peliculas", FX HD
+http://go.iptvhn.net:25461/5418/5418/6559
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/fxmovie.png" group-title="Peliculas", FX Movies HD
+http://go.iptvhn.net:25461/5418/5418/6560
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/golden.png" group-title="Peliculas", Golden
+http://go.iptvhn.net:25461/5418/5418/6565
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/hbofamily.png" group-title="Peliculas", HBO Family HD
+http://go.iptvhn.net:25461/5418/5418/6569
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/hbo.png" group-title="Peliculas", HBO HD
+http://go.iptvhn.net:25461/5418/5418/6570
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/hboplus.png" group-title="Peliculas", HBO Plus HD
+http://go.iptvhn.net:25461/5418/5418/6571
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/hboextreme.png" group-title="Peliculas", HBO XTREME
+http://go.iptvhn.net:25461/5418/5418/6572
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/hbo2.png" group-title="Peliculas", HBO2 HD
+http://go.iptvhn.net:25461/5418/5418/6573
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/multicinema.png" group-title="Peliculas", Multicinema
+http://go.iptvhn.net:25461/5418/5418/6587
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/multipremier.png" group-title="Peliculas", Multipremier
+http://go.iptvhn.net:25461/5418/5418/6589
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/paramount.png" group-title="Peliculas", Paramount HD
+http://go.iptvhn.net:25461/5418/5418/6600
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/sonyhd.png" group-title="Peliculas", SONY HD
+http://go.iptvhn.net:25461/5418/5418/6608
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/spacehd.png" group-title="Peliculas", SPACE HD
+http://go.iptvhn.net:25461/5418/5418/6609
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/staraction.png" group-title="Peliculas", STAR ACTION HD
+http://go.iptvhn.net:25461/5418/5418/6610
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/starchannel.png" group-title="Peliculas", STAR CHANNEL HD
+http://go.iptvhn.net:25461/5418/5418/6611
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/starclassic.png" group-title="Peliculas", STAR CLASSICS HD
+http://go.iptvhn.net:25461/5418/5418/6613
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/starcomedy.png" group-title="Peliculas", STAR COMEDY HD
+http://go.iptvhn.net:25461/5418/5418/6614
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/starfun.png" group-title="Peliculas", STAR FUN HD
+http://go.iptvhn.net:25461/5418/5418/6615
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/starhits.png" group-title="Peliculas", STAR HITS HD
+http://go.iptvhn.net:25461/5418/5418/6616
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/starlife.png" group-title="Peliculas", STAR LIFE
+http://go.iptvhn.net:25461/5418/5418/6617
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/starserie.png" group-title="Peliculas", STAR SERIES HD
+http://go.iptvhn.net:25461/5418/5418/6618
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/studio.png" group-title="Peliculas", Studio Universal HD
+http://go.iptvhn.net:25461/5418/5418/6621
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/tcm.png" group-title="Peliculas", TCM
+http://go.iptvhn.net:25461/5418/5418/6626
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/tlc.png" group-title="Peliculas", TLC
+http://go.iptvhn.net:25461/5418/5418/6629
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/tnthd.png" group-title="Peliculas", TNT HD
+http://go.iptvhn.net:25461/5418/5418/6630
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/tntseries.png" group-title="Peliculas", TNT Series HD
+http://go.iptvhn.net:25461/5418/5418/6632
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/universal.png" group-title="Peliculas", Universal
+http://go.iptvhn.net:25461/5418/5418/6646
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/warner.png" group-title="Peliculas", Warner Channel HD
+http://go.iptvhn.net:25461/5418/5418/6650
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0ISEyXLOLPJ1PKLYRDTyzI63VO.jpg" group-title="Accion", Classic Project 10 The Soundtrack Peliculas
+http://go.iptvhn.net:25461/movie/5418/5418/6146.mp4
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/distrito.png" group-title="Entretenimiento", Distrito Comedia
+http://go.iptvhn.net:25461/5418/5418/6688
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/azclick.png" group-title="Entretenimiento", AZ click HD
+http://go.iptvhn.net:25461/5418/5418/6482
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/animalplanet.png" group-title="Entretenimiento", Animal Planet HD
+http://go.iptvhn.net:25461/5418/5418/6483
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/antena3.png" group-title="Entretenimiento", Antena 3
+http://go.iptvhn.net:25461/5418/5418/6484
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/atres.png" group-title="Entretenimiento", Atres Series
+http://go.iptvhn.net:25461/5418/5418/6486
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/azcorazon.png" group-title="Entretenimiento", Azcorazon
+http://go.iptvhn.net:25461/5418/5418/6487
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/azmundo.png" group-title="Entretenimiento", Azmundo
+http://go.iptvhn.net:25461/5418/5418/6488
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/comedycentral.png" group-title="Entretenimiento", Comedy Central HD
+http://go.iptvhn.net:25461/5418/5418/6531
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/discoverytheather.png" group-title="Entretenimiento", DISCOVERY THEATHER HD
+http://go.iptvhn.net:25461/5418/5418/6534
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/discoverychannel.png" group-title="Entretenimiento", Discovery Channel HD
+http://go.iptvhn.net:25461/5418/5418/6536
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/id.png" group-title="Entretenimiento", Discovery ID HD
+http://go.iptvhn.net:25461/5418/5418/6537
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/discoveryscience.png" group-title="Entretenimiento", Discovery Science
+http://go.iptvhn.net:25461/5418/5418/6540
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/discoveryturbo.png" group-title="Entretenimiento", Discovery Turbo
+http://go.iptvhn.net:25461/5418/5418/6541
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/discoveryworld.png" group-title="Entretenimiento", Discovery World HD
+http://go.iptvhn.net:25461/5418/5418/6542
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/e.png" group-title="Entretenimiento", E! Entertairment HD
+http://go.iptvhn.net:25461/5418/5418/6546
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/eurochannel.png" group-title="Entretenimiento", EURO Channel
+http://go.iptvhn.net:25461/5418/5418/6551
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/ewtn.png" group-title="Entretenimiento", EWTN
+http://go.iptvhn.net:25461/5418/5418/6552
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/gourmet.png" group-title="Entretenimiento", El Gourmet
+http://go.iptvhn.net:25461/5418/5418/6553
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/europa.png" group-title="Entretenimiento", Europa HD
+http://go.iptvhn.net:25461/5418/5418/6554
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/film.png" group-title="Entretenimiento", Film & Arts
+http://go.iptvhn.net:25461/5418/5418/6561
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/h2.png" group-title="Entretenimiento", H2
+http://go.iptvhn.net:25461/5418/5418/6568
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/hola.png" group-title="Entretenimiento", HOLA! TV HD
+http://go.iptvhn.net:25461/5418/5418/6574
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/history.png" group-title="Entretenimiento", History HD
+http://go.iptvhn.net:25461/5418/5418/6575
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/home.png" group-title="Entretenimiento", Home & Health HD
+http://go.iptvhn.net:25461/5418/5418/6576
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/homegarden.png" group-title="Entretenimiento", Home Garden Latino
+http://go.iptvhn.net:25461/5418/5418/6577
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/lifetime.png" group-title="Entretenimiento", LIFE TIME
+http://go.iptvhn.net:25461/5418/5418/6579
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/maschic.png" group-title="Entretenimiento", Mas Chic
+http://go.iptvhn.net:25461/5418/5418/6586
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/natgeo.png" group-title="Entretenimiento", Nat Geo HD
+http://go.iptvhn.net:25461/5418/5418/6591
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/natgeokids.png" group-title="Entretenimiento", Nat Geo Kids
+http://go.iptvhn.net:25461/5418/5418/6592
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/national.png" group-title="Entretenimiento", National Geographic
+http://go.iptvhn.net:25461/5418/5418/6594
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/pxtv.png" group-title="Entretenimiento", PXTV
+http://go.iptvhn.net:25461/5418/5418/6599
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/rcn.png" group-title="Entretenimiento", RCN Novelas
+http://go.iptvhn.net:25461/5418/5418/6604
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/startve.png" group-title="Entretenimiento", Star TVE HD
+http://go.iptvhn.net:25461/5418/5418/6620
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/tbs.png" group-title="Entretenimiento", TBS
+http://go.iptvhn.net:25461/5418/5418/6625
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/tvchile.png" group-title="Entretenimiento", TVChile
+http://go.iptvhn.net:25461/5418/5418/6634
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/telemundo.png" group-title="Entretenimiento", Telemundo HD
+http://go.iptvhn.net:25461/5418/5418/6640
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/univision.png" group-title="Entretenimiento", Univision HD
+http://go.iptvhn.net:25461/5418/5418/6647
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/canal10mex.png" group-title="Entretenimiento", Canal 10 Mexico
+http://go.iptvhn.net:25461/5418/5418/6707
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/avivatv.png" group-title="Entretenimiento", Aviva TV
+http://go.iptvhn.net:25461/5418/5418/6742
+
+#EXTINF:-1 tvg-logo="https://www.lasestrellas.tv/assets/08680ecc38e44f53/images/icn_lasestrellas_512x512.png" group-title="Entretenimiento", Canal de Las Estrellas
+http://go.iptvhn.net:25461/5418/5418/6749
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UG6Tq7a.png" group-title="Entretenimiento", Globo TV
+http://go.iptvhn.net:25461/5418/5418/6751
+
+#EXTINF:-1 tvg-logo="http://www.iglesiadelcamino.org/images/logo.png" group-title="Entretenimiento", Iglesia Del Camino
+http://go.iptvhn.net:25461/5418/5418/6753
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Garfield
+http://go.iptvhn.net:25461/5418/5418/6754
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Historia
+http://go.iptvhn.net:25461/5418/5418/6756
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Historias de Ultratumba
+http://go.iptvhn.net:25461/5418/5418/6757
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Hogar
+http://go.iptvhn.net:25461/5418/5418/6758
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Humor
+http://go.iptvhn.net:25461/5418/5418/6759
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Indies
+http://go.iptvhn.net:25461/5418/5418/6760
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Investiga
+http://go.iptvhn.net:25461/5418/5418/6761
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Kenan y Kel
+http://go.iptvhn.net:25461/5418/5418/6763
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Kids
+http://go.iptvhn.net:25461/5418/5418/6764
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1abe3ffcd659000770d88d/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV La Chica Invisible
+http://go.iptvhn.net:25461/5418/5418/6766
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Las Pistas de Blue
+http://go.iptvhn.net:25461/5418/5418/6767
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Las reglas del juego
+http://go.iptvhn.net:25461/5418/5418/6768
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed80fa09f120007c8daa5/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Les Cordier
+http://go.iptvhn.net:25461/5418/5418/6770
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Los archivos del FBI
+http://go.iptvhn.net:25461/5418/5418/6771
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Los nuevos detectives
+http://go.iptvhn.net:25461/5418/5418/6772
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Louis La Brocante
+http://go.iptvhn.net:25461/5418/5418/6773
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Love Nature
+http://go.iptvhn.net:25461/5418/5418/6775
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Lucha Libre AAA
+http://go.iptvhn.net:25461/5418/5418/6776
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aaefb96f755000733c11a/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV MADE
+http://go.iptvhn.net:25461/5418/5418/6777
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV MasterChef
+http://go.iptvhn.net:25461/5418/5418/6778
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Minuto Para Ganar
+http://go.iptvhn.net:25461/5418/5418/6779
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Misterios
+http://go.iptvhn.net:25461/5418/5418/6780
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Misterios Medicos
+http://go.iptvhn.net:25461/5418/5418/6781
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Misterios sin Resolver
+http://go.iptvhn.net:25461/5418/5418/6782
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV MTV
+http://go.iptvhn.net:25461/5418/5418/6783
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV MTV Biggest Pop
+http://go.iptvhn.net:25461/5418/5418/6785
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV MTV Classic
+http://go.iptvhn.net:25461/5418/5418/6786
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV MTV Embarazada a los 16
+http://go.iptvhn.net:25461/5418/5418/6787
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV MTV Latino
+http://go.iptvhn.net:25461/5418/5418/6788
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV MTV Music Made in Spain
+http://go.iptvhn.net:25461/5418/5418/6789
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV MTV Originals
+http://go.iptvhn.net:25461/5418/5418/6790
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV MTV Pranks
+http://go.iptvhn.net:25461/5418/5418/6791
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/featuredImage.jpg?w=750&fm=png" group-title="Entretenimiento", Pluto TV MTV Tattoo A Dos
+http://go.iptvhn.net:25461/5418/5418/6792
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d8d103f031154a4172d262b/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Mundo
+http://go.iptvhn.net:25461/5418/5418/6793
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Mutante X
+http://go.iptvhn.net:25461/5418/5418/6794
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Narcos
+http://go.iptvhn.net:25461/5418/5418/6795
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Naruto
+http://go.iptvhn.net:25461/5418/5418/6796
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Natureza
+http://go.iptvhn.net:25461/5418/5418/6798
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Nick
+http://go.iptvhn.net:25461/5418/5418/6799
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Nick Clásico
+http://go.iptvhn.net:25461/5418/5418/6800
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Nick Jr. Club
+http://go.iptvhn.net:25461/5418/5418/6801
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Nick Jr. Latino
+http://go.iptvhn.net:25461/5418/5418/6802
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Nick Latino
+http://go.iptvhn.net:25461/5418/5418/6803
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Novelas
+http://go.iptvhn.net:25461/5418/5418/6804
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Novelas Drama
+http://go.iptvhn.net:25461/5418/5418/6805
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Novelas Dramas
+http://go.iptvhn.net:25461/5418/5418/6806
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Novelas Romance
+http://go.iptvhn.net:25461/5418/5418/6807
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Novelas Romance
+http://go.iptvhn.net:25461/5418/5418/6808
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Novelas Thriller
+http://go.iptvhn.net:25461/5418/5418/6809
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Nuestra Vision
+http://go.iptvhn.net:25461/5418/5418/6810
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Paranormal
+http://go.iptvhn.net:25461/5418/5418/6812
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Peleas
+http://go.iptvhn.net:25461/5418/5418/6813
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebac65911406400078b8993/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV People are Awesome
+http://go.iptvhn.net:25461/5418/5418/6814
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aa82c150b2500077733d7/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Pistas de Blue
+http://go.iptvhn.net:25461/5418/5418/6815
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609501978c069d00074e0dd2/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Planeta Junior TV
+http://go.iptvhn.net:25461/5418/5418/6816
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d93b4d71754e6a4298d086e/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Realities ESP
+http://go.iptvhn.net:25461/5418/5418/6817
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Reality
+http://go.iptvhn.net:25461/5418/5418/6818
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Rugrats
+http://go.iptvhn.net:25461/5418/5418/6819
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Sci-Fi
+http://go.iptvhn.net:25461/5418/5418/6821
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Series Latinas
+http://go.iptvhn.net:25461/5418/5418/6822
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Series Retro
+http://go.iptvhn.net:25461/5418/5418/6823
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Spike Aventura
+http://go.iptvhn.net:25461/5418/5418/6824
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Tastemade
+http://go.iptvhn.net:25461/5418/5418/6825
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Teen
+http://go.iptvhn.net:25461/5418/5418/6826
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV The New Detectives
+http://go.iptvhn.net:25461/5418/5418/6831
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV The Pet Collective
+http://go.iptvhn.net:25461/5418/5418/6832
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV The Walking Dead ESP
+http://go.iptvhn.net:25461/5418/5418/6833
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Toons Clásico
+http://go.iptvhn.net:25461/5418/5418/6834
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV TROL
+http://go.iptvhn.net:25461/5418/5418/6835
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Turma da Mônica
+http://go.iptvhn.net:25461/5418/5418/6836
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Vaya semanita
+http://go.iptvhn.net:25461/5418/5418/6837
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Velocidad​
+http://go.iptvhn.net:25461/5418/5418/6838
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV VH1 Classics
+http://go.iptvhn.net:25461/5418/5418/6841
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Vida Real
+http://go.iptvhn.net:25461/5418/5418/6843
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ab3e1242be690697279c75d/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Wipeout
+http://go.iptvhn.net:25461/5418/5418/6844
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Yu-Gi-Oh
+http://go.iptvhn.net:25461/5418/5418/6845
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-stv-en-vivo.jpg" group-title="Entretenimiento", STV El Camal Familiar
+http://go.iptvhn.net:25461/5418/5418/6846
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/babytv.png" group-title="Infantiles", Baby TV
+http://go.iptvhn.net:25461/5418/5418/6490
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/boomerang.png" group-title="Infantiles", Boomerang
+http://go.iptvhn.net:25461/5418/5418/6491
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/cartoonnt.png" group-title="Infantiles", CARTOON NT HD
+http://go.iptvhn.net:25461/5418/5418/6493
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/cartoon.png" group-title="Infantiles", Cartoon Network
+http://go.iptvhn.net:25461/5418/5418/6523
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/discoverykids.png" group-title="Infantiles", Discovery Kids HD
+http://go.iptvhn.net:25461/5418/5418/6539
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/disney.png" group-title="Infantiles", Disney
+http://go.iptvhn.net:25461/5418/5418/6543
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/disneyjr.png" group-title="Infantiles", Disney JR
+http://go.iptvhn.net:25461/5418/5418/6544
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/nickjr.png" group-title="Infantiles", Nick Jr
+http://go.iptvhn.net:25461/5418/5418/6596
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/nicksim.png" group-title="Infantiles", Nick SIM HD
+http://go.iptvhn.net:25461/5418/5418/6597
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/nickelodeon.png" group-title="Infantiles", Nickelodeon
+http://go.iptvhn.net:25461/5418/5418/6598
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/semillitas.png" group-title="Infantiles", SEMILLITAS
+http://go.iptvhn.net:25461/5418/5418/6606
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/zoomoo.png" group-title="Infantiles", ZooMoo
+http://go.iptvhn.net:25461/5418/5418/6651
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/reinoinfantil.png" group-title="Infantiles", Reino Infantil
+http://go.iptvhn.net:25461/5418/5418/7663
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/espnplus.png" group-title="Deportes", ESPN  +
+http://go.iptvhn.net:25461/5418/5418/6547
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/espn2.png" group-title="Deportes", ESPN 2 HD
+http://go.iptvhn.net:25461/5418/5418/6548
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/espn3.png" group-title="Deportes", ESPN 3 HD
+http://go.iptvhn.net:25461/5418/5418/6549
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/espn.png" group-title="Deportes", ESPN HD
+http://go.iptvhn.net:25461/5418/5418/6550
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/foxsport2.png" group-title="Deportes", FOX SPORTS 2 HD
+http://go.iptvhn.net:25461/5418/5418/6556
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/foxsport3.png" group-title="Deportes", FOX SPORTS 3 HD
+http://go.iptvhn.net:25461/5418/5418/6557
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/foxsport.png" group-title="Deportes", Fox Sports  HD
+http://go.iptvhn.net:25461/5418/5418/6563
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/golf.png" group-title="Deportes", Golf Channel HD
+http://go.iptvhn.net:25461/5418/5418/6566
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/td2cr.png" group-title="Deportes", TD2 Costa Rica
+http://go.iptvhn.net:25461/5418/5418/6627
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/tdcr.png" group-title="Deportes", TD Costa Rica
+http://go.iptvhn.net:25461/5418/5418/6628
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/tigosport.png" group-title="Deportes", Tigo Sports  Costa Rica
+http://go.iptvhn.net:25461/5418/5418/6645
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/beinsport.png" group-title="Deportes", Bein Sport HD
+http://go.iptvhn.net:25461/5418/5418/6682
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/laligatv.png" group-title="Deportes", La Liga TV HD
+http://go.iptvhn.net:25461/5418/5418/6683
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/skysport.png" group-title="Deportes", Sky Sport 01
+http://go.iptvhn.net:25461/5418/5418/6687
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/directvsport.png" group-title="Deportes", DirecTV Sport
+http://go.iptvhn.net:25461/5418/5418/6703
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/tigosport.png" group-title="Deportes", Tigo Sport Honduras
+http://go.iptvhn.net:25461/5418/5418/6704
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/skysport.png" group-title="Deportes", Sky Sport 02
+http://go.iptvhn.net:25461/5418/5418/7041
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/skysport.png" group-title="Deportes", Sky Sport 03
+http://go.iptvhn.net:25461/5418/5418/7042
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/skysport.png" group-title="Deportes", Sky Sport 04
+http://go.iptvhn.net:25461/5418/5418/7043
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/skysport.png" group-title="Deportes", Sky Sport 05
+http://go.iptvhn.net:25461/5418/5418/7044
+
+#EXTINF:-1 tvg-logo="http://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Deportes", TUDN
+http://go.iptvhn.net:25461/5418/5418/7045
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-German-Bundesliga.png" group-title="Deportes", Bundesliga
+http://go.iptvhn.net:25461/5418/5418/7046
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/espnmas.png" group-title="Deportes", Deportes Plus
+http://go.iptvhn.net:25461/5418/5418/7662
+
